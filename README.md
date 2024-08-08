@@ -1,12 +1,8 @@
 # Layoffs-EDA-SQL
 
-This repository contains the analysis of layoff data from the layoffs_staging table. The primary objective of this project is to uncover valuable insights about layoffs across different companies, industries, and regions over time, enabling data-driven decision-making.
-
-# Project Overview
-This project involves analyzing a comprehensive dataset of layoffs to identify trends, patterns, and insights. The analysis focuses on various dimensions such as companies, industries, geographical locations, and temporal trends (yearly, quarterly, and monthly).
+This repository contains the analysis of layoff data from the layoffs table. The primary objective of this project is to uncover valuable insights about layoffs across different companies, industries, and regions over time, enabling data-driven decision-making.
 
 # Process Followed
-
 # Data Cleaning
 
 Removing Duplicates
